@@ -1,0 +1,12 @@
+.p {
+    color: #434455
+}
+.h2 {
+    color: #2E2F42
+}
+.header {
+    color: #2E2F42
+}
+.header :hover {
+    color: blue;
+}
